@@ -1,0 +1,12 @@
+.customFooter {
+    background: lightgray;
+    text-align: center;
+}
+
+.textLink {
+    color: lightsteelblue;
+}
+
+.textLink:hover{
+    color: burlywood;
+}
