@@ -10,3 +10,50 @@
 .textLink:hover{
     color: burlywood;
 }
+
+.rounded-circle {
+    width: 200px;
+    border-color: lightsteelblue;
+    border-style: solid;
+}
+
+.media-body {
+    padding: 10px;
+}
+
+body {
+    background-image: url("../photos/background.jpeg");
+}
+
+h1 {
+    padding: 10px 10px 10px 0px;
+}
+
+a:link {
+    color: lightsteelblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: seashell;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: firebrick;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  .contacts {
+      margin-left: 15px;
+  }
+
+  .row {
+      margin-bottom: 20px;
+  }
